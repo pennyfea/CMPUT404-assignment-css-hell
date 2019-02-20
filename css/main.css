@@ -1,0 +1,48 @@
+body {
+  background: url("../img/abstract-ancient-antique-235985.jpg") fixed !important;
+}
+
+html {
+  font-family: Papyrus, fantasy !important;
+  font-size: 28px !important;
+  font-weight: bolder !important;
+  text-shadow: 1px 0;
+  letter-spacing: 2px;
+}
+
+p {
+  font-family: Papyrus, fantasy !important;
+}
+
+pre {
+  font-family: Bookman Old Style !important;
+  text-align: justify;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none !important;
+  font-family: Bookman Old Style !important;
+  color: blue !important;
+  font-weight: 900;
+}
+
+a:hover {
+  color: black !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-shadow: 20px 20px 20px #505050;
+}
+
+img:hover {
+  transition: transform 0.2s; /* Animation */
+  transform: scale(1.1);
+}
