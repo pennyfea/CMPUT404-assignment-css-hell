@@ -43,6 +43,7 @@ h6 {
 }
 
 img:hover {
-  transition: transform 0.2s; /* Animation */
+  transition: transform 0.2s;
   transform: scale(1.1);
 }
+

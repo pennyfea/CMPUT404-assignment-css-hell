@@ -3,6 +3,10 @@ html {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+p {
+  color: white;
+  font-weight: bolder;
+}
 body {
   background: url("../img/astronomy-color-cosmos-41951.jpg") fixed;
   background-size: cover;
@@ -33,14 +37,21 @@ img {
 h1 {
   text-transform: uppercase;
 }
-.sidenav p {
-  color: white;
-}
 
 .pro-history {
   height: 50%;
   float: right;
   width: calc(100% - 210px);
+}
+
+.pro-history li {
+  font-size: 2rem;
+  list-style-position: inside;
+}
+
+.employer li {
+  font-size: 2rem;
+  list-style-position: inside;
 }
 
 .employer {
@@ -49,7 +60,8 @@ h1 {
   width: calc(100% - 210px);
 }
 li {
-  color: white;
+  color: rgb(16, 156, 221);
+  font-weight: bolder;
 }
 
 section {
