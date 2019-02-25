@@ -21,7 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Modifications to gutenberg documents
+Modifications to Gutenberg documents
 =================
 - **Added a paper-like backgrounds.**
 - **Added a new font to all paragraphs:**`font-family: Papyrus, fantasy !important;`
